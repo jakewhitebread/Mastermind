@@ -1,5 +1,5 @@
 # Mastermind
-My attempt to recreate mastermind in the console for my Object Orientated Programming class.
+My recreation of the game, mastermind, in the command window for my Object Orientated Programming class.
 
 # Instructions:
 1.) Download all .cpp and header files
